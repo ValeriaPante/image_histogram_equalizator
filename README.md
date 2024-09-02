@@ -21,4 +21,4 @@ The size of the image is defined by 2 bytes, stored starting from address 0. The
 The image is stored starting from address 2 and in contiguous bytes. So the byte at address 2 is the first pixel of the first line of the image.
 The equalized image must be written into memory immediately after the original image.
 
-In this repository you can find the component realised in VHDL, the report of realization of the component (only in Italian) and a folder containing all the test to which the component has been subjected.
+In this repository you can find the component realized in VHDL, the report of realization of the component (only in Italian) and a folder containing all the test to which the component has been subjected.
